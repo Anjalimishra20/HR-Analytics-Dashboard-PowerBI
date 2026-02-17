@@ -37,10 +37,15 @@ The objective is to identify key factors contributing to employee turnover and s
 ---
 
 ## 💡 Key Insights
-- Identified high attrition in specific age groups.
-- Lower salary bands showed higher turnover.
-- Certain job roles contributed significantly to overall attrition.
-- Department-level analysis helps HR prioritize retention strategies.
+
+- Employees aged 26–35 showed the highest attrition rate.
+- Male employees demonstrated higher turnover compared to female employees.
+- Employees with Life Sciences education background had increased attrition.
+- Laboratory Technicians recorded the highest attrition among job roles.
+- Employees in the lower salary band (~5K range) were more likely to leave the organization.
+
+These findings highlight the need for targeted retention strategies focused on mid-career professionals, compensation improvements, and role-specific engagement initiatives.
+
 
 ---
 
