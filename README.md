@@ -32,7 +32,7 @@ The objective is to identify key factors contributing to employee turnover and s
 ---
 
 ## 📄 Dashboard Preview
-[View Full Dashboard (PDF)](Project_Preview/HR_Dashboard_Preview.pdf)
+[View Full Dashboard (PDF)](https://github.com/Anjalimishra20/HR-Analytics-Dashboard-PowerBI/blob/main/HR%20Analytics%20Dashboard%20-%20Power%20BI/Project_Preview/HR%20Analytics%20Dashboard.pdf)
 
 ---
 
