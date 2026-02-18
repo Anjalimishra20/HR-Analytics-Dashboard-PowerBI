@@ -52,6 +52,14 @@ The analysis indicates higher attrition among male employees compared to female 
 ---
 
 ## 🎯 Business Impact
+- Reduce employee turnover
+- Improve retention strategies
+- Identify high-risk employee segments
+- Optimize compensation planning
+
+
+
+ 
 This dashboard helps HR teams:
 - Reduce employee turnover
 - Improve retention strategies
